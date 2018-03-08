@@ -7,3 +7,7 @@ Main features
 2.	This tool can calculate time confliction based on users' selection and report confliction.
 3.	This tool can accumulate the total credit.
 4.	When user finalize their selection, he/she can get a Soc# list that can be used when filling Student Course Request.
+
+Published Chrome Extension
+v1.0
+https://chrome.google.com/webstore/detail/depauw-course-selection-a/jmplhoebheihmalpipnboogmoncggbfm
